@@ -10,6 +10,8 @@ sites:
 
   - name: ArchiveBox
     url: https://archivebox.pxlbuzzard.com
+    expectedStatusCodes:
+      - 401
   - name: Conreq
     url: https://request.pxlbuzzard.com
   - name: Gitea
