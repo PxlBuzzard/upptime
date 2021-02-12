@@ -5,10 +5,28 @@ user-agent: pxlbuzzard
 
 # Add your sites here
 sites:
-  - name: Personal
+  - name: Daniel Jost
     url: https://danieljost.com
+
+  - name: ArchiveBox
+    url: https://archivebox.pxlbuzzard.com
+  - name: Conreq
+    url: https://request.pxlbuzzard.com
+  - name: Gitea
+    url: https://git.pxlbuzzard.com
+  - name: Nextcloud
+    url: https://nextcloud.pxlbuzzard.com
+  - name: Plex
+    url: https://plex.pxlbuzzard.com
+
   - name: Microsoft Endpoint Manager
     url: https://endpoint.microsoft.com
+  - name: Terri's Top Treatments
+    url: https://terristoptreatments.com
+  - name: K. J. Kamphoefner Design
+    url: https://kjkamphoefnerdesign.com
+  - name: Luann Spencer Steele
+    url: https://luannspencersteele.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -17,8 +35,8 @@ status-website:
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: PxlBuzzard's Status Page
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "PxlBuzzard does websites for a living."
+  introMessage: Upptime is tracking these self-hosted and work sites for me, which is p neat.
   navbar:
     - title: Status
       href: /
