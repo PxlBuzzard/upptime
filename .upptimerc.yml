@@ -10,16 +10,16 @@ sites:
 
   - name: ArchiveBox
     url: https://archivebox.pxlbuzzard.com
-    expectedStatusCodes:
-      - 401
-  - name: Conreq
-    url: https://request.pxlbuzzard.com
   - name: Gitea
     url: https://git.pxlbuzzard.com
-  - name: Nextcloud
-    url: https://nextcloud.pxlbuzzard.com
+  - name: Home Assistant
+    url: https://homeassistant.pxlbuzzard.com
+  - name: Overseerr
+    url: https://request.pxlbuzzard.com
   - name: Plex
     url: https://plex.pxlbuzzard.com
+  - name: XBackBone
+    url: https://share.pxlbuzzard.com
 
   - name: Microsoft Endpoint Manager
     url: https://endpoint.microsoft.com
