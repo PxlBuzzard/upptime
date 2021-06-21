@@ -1,7 +1,7 @@
 url: https://homeassistant.pxlbuzzard.com
-status: down
-code: 502
-responseTime: 287
-lastUpdated: 2021-06-21T09:24:50.048Z
+status: up
+code: 200
+responseTime: 269
+lastUpdated: 2021-06-21T17:36:25.044Z
 startTime: Wed Jun 09 2021 16:40:41 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
