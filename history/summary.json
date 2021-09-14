@@ -271,11 +271,11 @@
     "url": "https://luannspencersteele.com",
     "icon": "https://favicons.githubusercontent.com/luannspencersteele.com",
     "slug": "luann-spencer-steele",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 277,
     "timeDay": 866,
@@ -283,7 +283,7 @@
     "timeMonth": 411,
     "timeYear": 277,
     "dailyMinutesDown": {
-      "2021-09-14": 11
+      "2021-09-14": 0
     }
   }
 ]
