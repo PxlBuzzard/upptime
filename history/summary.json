@@ -223,19 +223,19 @@
     "url": "https://endpoint.microsoft.com",
     "icon": "https://favicons.githubusercontent.com/endpoint.microsoft.com",
     "slug": "microsoft-endpoint-manager",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 63,
     "timeDay": 55,
-    "timeWeek": 50,
+    "timeWeek": 51,
     "timeMonth": 67,
     "timeYear": 63,
     "dailyMinutesDown": {
-      "2021-09-28": 0
+      "2021-09-28": 11
     }
   },
   {
