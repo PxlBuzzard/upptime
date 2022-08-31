@@ -13,7 +13,7 @@
     "time": 223,
     "timeDay": 326,
     "timeWeek": 312,
-    "timeMonth": 341,
+    "timeMonth": 347,
     "timeYear": 236,
     "dailyMinutesDown": {
       "2022-07-01": 26,
@@ -42,7 +42,7 @@
     "timeDay": 437,
     "timeWeek": 449,
     "timeMonth": 501,
-    "timeYear": 1172,
+    "timeYear": 1173,
     "dailyMinutesDown": {
       "2022-08-27": 18,
       "2022-08-22": 50,
@@ -525,9 +525,9 @@
     "slug": "luann-spencer-steele",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
     "time": 326,
     "timeDay": 220,
@@ -535,7 +535,6 @@
     "timeMonth": 226,
     "timeYear": 348,
     "dailyMinutesDown": {
-      "2022-08-30": 7,
       "2022-08-10": 41,
       "2022-07-28": 18,
       "2022-05-16": 18,
