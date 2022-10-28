@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.86%",
     "time": 235,
-    "timeDay": 310,
-    "timeWeek": 339,
-    "timeMonth": 325,
+    "timeDay": 326,
+    "timeWeek": 355,
+    "timeMonth": 318,
     "timeYear": 254,
     "dailyMinutesDown": {
       "2022-07-01": 26,
@@ -39,9 +39,9 @@
     "uptimeMonth": "99.46%",
     "uptimeYear": "95.72%",
     "time": 1033,
-    "timeDay": 711,
-    "timeWeek": 528,
-    "timeMonth": 534,
+    "timeDay": 652,
+    "timeWeek": 525,
+    "timeMonth": 538,
     "timeYear": 1140,
     "dailyMinutesDown": {
       "2022-10-27": 22,
@@ -114,8 +114,7 @@
       "2021-11-21": 15,
       "2021-11-15": 26,
       "2021-11-08": 26,
-      "2021-11-01": 36,
-      "2021-10-28": 276
+      "2021-11-01": 36
     }
   },
   {
@@ -125,17 +124,17 @@
     "slug": "gitea",
     "status": "up",
     "uptime": "97.38%",
-    "uptimeDay": "96.81%",
-    "uptimeWeek": "99.38%",
-    "uptimeMonth": "99.54%",
+    "uptimeDay": "97.68%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.57%",
     "uptimeYear": "95.90%",
     "time": 695,
-    "timeDay": 203,
-    "timeWeek": 292,
-    "timeMonth": 298,
+    "timeDay": 205,
+    "timeWeek": 284,
+    "timeMonth": 300,
     "timeYear": 820,
     "dailyMinutesDown": {
-      "2022-10-27": 46,
+      "2022-10-27": 33,
       "2022-10-24": 16,
       "2022-10-07": 75,
       "2022-10-03": 65,
@@ -198,8 +197,7 @@
       "2021-11-22": 26,
       "2021-11-15": 26,
       "2021-11-08": 26,
-      "2021-11-07": 17,
-      "2021-10-28": 263
+      "2021-11-07": 17
     }
   },
   {
@@ -214,9 +212,9 @@
     "uptimeMonth": "97.89%",
     "uptimeYear": "95.72%",
     "time": 584,
-    "timeDay": 277,
-    "timeWeek": 1043,
-    "timeMonth": 492,
+    "timeDay": 265,
+    "timeWeek": 1036,
+    "timeMonth": 494,
     "timeYear": 655,
     "dailyMinutesDown": {
       "2022-10-24": 17,
@@ -293,8 +291,7 @@
       "2021-11-15": 26,
       "2021-11-08": 26,
       "2021-11-07": 17,
-      "2021-11-01": 36,
-      "2021-10-28": 263
+      "2021-11-01": 36
     }
   },
   {
@@ -303,15 +300,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/request.pxlbuzzard.com.ico",
     "slug": "overseerr",
     "status": "up",
-    "uptime": "96.92%",
+    "uptime": "96.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.46%",
     "uptimeMonth": "99.56%",
     "uptimeYear": "95.84%",
-    "time": 1207,
-    "timeDay": 664,
-    "timeWeek": 666,
-    "timeMonth": 866,
+    "time": 1206,
+    "timeDay": 507,
+    "timeWeek": 650,
+    "timeMonth": 869,
     "timeYear": 1273,
     "dailyMinutesDown": {
       "2022-10-25": 15,
@@ -384,8 +381,7 @@
       "2021-11-15": 26,
       "2021-11-08": 26,
       "2021-11-07": 16,
-      "2021-11-01": 36,
-      "2021-10-28": 262
+      "2021-11-01": 36
     }
   },
   {
@@ -400,9 +396,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 284,
-    "timeDay": 493,
-    "timeWeek": 259,
-    "timeMonth": 250,
+    "timeDay": 205,
+    "timeWeek": 251,
+    "timeMonth": 253,
     "timeYear": 287,
     "dailyMinutesDown": {}
   },
@@ -418,9 +414,9 @@
     "uptimeMonth": "99.56%",
     "uptimeYear": "95.87%",
     "time": 1060,
-    "timeDay": 1422,
-    "timeWeek": 1067,
-    "timeMonth": 988,
+    "timeDay": 1160,
+    "timeWeek": 1033,
+    "timeMonth": 987,
     "timeYear": 1110,
     "dailyMinutesDown": {
       "2022-10-26": 15,
@@ -497,8 +493,7 @@
       "2021-11-14": 21,
       "2021-11-08": 26,
       "2021-11-07": 15,
-      "2021-11-01": 36,
-      "2021-10-28": 261
+      "2021-11-01": 36
     }
   },
   {
@@ -512,11 +507,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 317,
-    "timeDay": 151,
-    "timeWeek": 178,
-    "timeMonth": 354,
-    "timeYear": 317,
+    "time": 316,
+    "timeDay": 162,
+    "timeWeek": 179,
+    "timeMonth": 343,
+    "timeYear": 316,
     "dailyMinutesDown": {
       "2022-07-01": 26,
       "2022-06-30": 173,
@@ -536,10 +531,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 324,
-    "timeDay": 182,
-    "timeWeek": 179,
-    "timeMonth": 241,
-    "timeYear": 321,
+    "timeDay": 188,
+    "timeWeek": 183,
+    "timeMonth": 242,
+    "timeYear": 320,
     "dailyMinutesDown": {
       "2022-09-14": 44,
       "2022-08-31": 29,
