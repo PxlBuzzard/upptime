@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.86%",
     "time": 241,
-    "timeDay": 172,
-    "timeWeek": 324,
-    "timeMonth": 308,
-    "timeYear": 261,
+    "timeDay": 178,
+    "timeWeek": 288,
+    "timeMonth": 300,
+    "timeYear": 260,
     "dailyMinutesDown": {
       "2022-07-01": 26,
       "2022-06-30": 173,
@@ -39,10 +39,10 @@
     "uptimeMonth": "99.28%",
     "uptimeYear": "95.75%",
     "time": 974,
-    "timeDay": 767,
-    "timeWeek": 872,
-    "timeMonth": 576,
-    "timeYear": 1109,
+    "timeDay": 577,
+    "timeWeek": 890,
+    "timeMonth": 579,
+    "timeYear": 1103,
     "dailyMinutesDown": {
       "2022-11-21": 40,
       "2022-11-14": 21,
@@ -115,8 +115,7 @@
       "2021-12-07": 96,
       "2021-12-06": 444,
       "2021-12-03": 542,
-      "2021-11-29": 26,
-      "2021-11-22": 26
+      "2021-11-29": 26
     }
   },
   {
@@ -131,10 +130,10 @@
     "uptimeMonth": "99.37%",
     "uptimeYear": "95.92%",
     "time": 697,
-    "timeDay": 343,
-    "timeWeek": 398,
-    "timeMonth": 307,
-    "timeYear": 805,
+    "timeDay": 355,
+    "timeWeek": 412,
+    "timeMonth": 310,
+    "timeYear": 806,
     "dailyMinutesDown": {
       "2022-11-21": 40,
       "2022-11-14": 21,
@@ -201,8 +200,7 @@
       "2021-12-08": 18,
       "2021-12-07": 96,
       "2021-12-06": 443,
-      "2021-11-29": 26,
-      "2021-11-22": 26
+      "2021-11-29": 26
     }
   },
   {
@@ -211,16 +209,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/homeassistant.pxlbuzzard.com.ico",
     "slug": "home-assistant",
     "status": "up",
-    "uptime": "97.00%",
+    "uptime": "97.01%",
     "uptimeDay": "97.23%",
     "uptimeWeek": "99.60%",
     "uptimeMonth": "99.44%",
     "uptimeYear": "95.75%",
     "time": 543,
-    "timeDay": 298,
-    "timeWeek": 296,
-    "timeMonth": 381,
-    "timeYear": 631,
+    "timeDay": 307,
+    "timeWeek": 305,
+    "timeMonth": 383,
+    "timeYear": 632,
     "dailyMinutesDown": {
       "2022-11-21": 40,
       "2022-11-14": 21,
@@ -297,8 +295,7 @@
       "2021-12-08": 18,
       "2021-12-07": 94,
       "2021-12-06": 471,
-      "2021-11-29": 26,
-      "2021-11-22": 26
+      "2021-11-29": 26
     }
   },
   {
@@ -307,16 +304,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/request.pxlbuzzard.com.ico",
     "slug": "overseerr",
     "status": "up",
-    "uptime": "97.07%",
+    "uptime": "97.08%",
     "uptimeDay": "97.23%",
     "uptimeWeek": "99.60%",
     "uptimeMonth": "99.36%",
     "uptimeYear": "95.86%",
     "time": 1207,
-    "timeDay": 2556,
-    "timeWeek": 1188,
-    "timeMonth": 881,
-    "timeYear": 1265,
+    "timeDay": 2477,
+    "timeWeek": 1233,
+    "timeMonth": 890,
+    "timeYear": 1267,
     "dailyMinutesDown": {
       "2022-11-21": 40,
       "2022-11-14": 21,
@@ -389,8 +386,7 @@
       "2021-12-08": 17,
       "2021-12-07": 94,
       "2021-12-06": 467,
-      "2021-11-29": 26,
-      "2021-11-22": 26
+      "2021-11-29": 26
     }
   },
   {
@@ -405,9 +401,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 284,
-    "timeDay": 265,
-    "timeWeek": 272,
-    "timeMonth": 254,
+    "timeDay": 329,
+    "timeWeek": 288,
+    "timeMonth": 257,
     "timeYear": 284,
     "dailyMinutesDown": {}
   },
@@ -422,11 +418,11 @@
     "uptimeWeek": "99.60%",
     "uptimeMonth": "99.45%",
     "uptimeYear": "95.91%",
-    "time": 1090,
-    "timeDay": 1598,
-    "timeWeek": 1231,
-    "timeMonth": 1047,
-    "timeYear": 1128,
+    "time": 1092,
+    "timeDay": 1407,
+    "timeWeek": 1313,
+    "timeMonth": 1057,
+    "timeYear": 1130,
     "dailyMinutesDown": {
       "2022-11-21": 40,
       "2022-11-14": 21,
@@ -502,8 +498,7 @@
       "2021-12-08": 16,
       "2021-12-07": 92,
       "2021-12-06": 424,
-      "2021-11-29": 26,
-      "2021-11-22": 26
+      "2021-11-29": 26
     }
   },
   {
@@ -517,11 +512,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 297,
-    "timeDay": 100,
-    "timeWeek": 170,
-    "timeMonth": 163,
-    "timeYear": 297,
+    "time": 296,
+    "timeDay": 102,
+    "timeWeek": 154,
+    "timeMonth": 160,
+    "timeYear": 296,
     "dailyMinutesDown": {
       "2022-07-01": 26,
       "2022-06-30": 173,
@@ -541,9 +536,9 @@
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.90%",
     "time": 328,
-    "timeDay": 31,
-    "timeWeek": 149,
-    "timeMonth": 254,
+    "timeDay": 108,
+    "timeWeek": 139,
+    "timeMonth": 251,
     "timeYear": 314,
     "dailyMinutesDown": {
       "2022-11-15": 48,
