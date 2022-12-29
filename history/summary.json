@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.86%",
     "time": 252,
-    "timeDay": 447,
-    "timeWeek": 285,
-    "timeMonth": 318,
-    "timeYear": 271,
+    "timeDay": 461,
+    "timeWeek": 327,
+    "timeMonth": 328,
+    "timeYear": 272,
     "dailyMinutesDown": {
       "2022-07-01": 26,
       "2022-06-30": 173,
@@ -36,12 +36,12 @@
     "uptime": "96.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "80.74%",
-    "uptimeYear": "94.70%",
-    "time": 1035,
-    "timeDay": 242,
-    "timeWeek": 461,
-    "timeMonth": 435,
+    "uptimeMonth": "80.81%",
+    "uptimeYear": "94.82%",
+    "time": 1034,
+    "timeDay": 307,
+    "timeWeek": 416,
+    "timeMonth": 422,
     "timeYear": 561,
     "dailyMinutesDown": {
       "2022-12-15": 368,
@@ -107,8 +107,7 @@
       "2022-01-21": 17,
       "2022-01-12": 258,
       "2022-01-10": 24,
-      "2022-01-03": 26,
-      "2021-12-29": 323
+      "2022-01-03": 26
     }
   },
   {
@@ -121,11 +120,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.45%",
-    "uptimeYear": "96.30%",
-    "time": 767,
-    "timeDay": 133,
-    "timeWeek": 279,
-    "timeMonth": 293,
+    "uptimeYear": "96.42%",
+    "time": 766,
+    "timeDay": 141,
+    "timeWeek": 247,
+    "timeMonth": 287,
     "timeYear": 307,
     "dailyMinutesDown": {
       "2022-12-12": 216,
@@ -178,8 +177,7 @@
       "2022-02-02": 57,
       "2022-01-12": 258,
       "2022-01-10": 24,
-      "2022-01-03": 26,
-      "2021-12-29": 323
+      "2022-01-03": 26
     }
   },
   {
@@ -191,12 +189,12 @@
     "uptime": "97.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.35%",
-    "uptimeYear": "96.12%",
+    "uptimeMonth": "99.41%",
+    "uptimeYear": "96.24%",
     "time": 604,
-    "timeDay": 133,
-    "timeWeek": 273,
-    "timeMonth": 547,
+    "timeDay": 144,
+    "timeWeek": 256,
+    "timeMonth": 555,
     "timeYear": 383,
     "dailyMinutesDown": {
       "2022-12-13": 19,
@@ -260,8 +258,7 @@
       "2022-02-02": 57,
       "2022-01-12": 258,
       "2022-01-10": 24,
-      "2022-01-03": 26,
-      "2021-12-29": 323
+      "2022-01-03": 26
     }
   },
   {
@@ -273,12 +270,12 @@
     "uptime": "97.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.36%",
-    "uptimeYear": "96.27%",
+    "uptimeMonth": "99.42%",
+    "uptimeYear": "96.39%",
     "time": 1263,
-    "timeDay": 297,
-    "timeWeek": 486,
-    "timeMonth": 1497,
+    "timeDay": 354,
+    "timeWeek": 479,
+    "timeMonth": 1379,
     "timeYear": 987,
     "dailyMinutesDown": {
       "2022-12-12": 229,
@@ -338,8 +335,7 @@
       "2022-01-12": 258,
       "2022-01-10": 24,
       "2022-01-03": 26,
-      "2022-01-01": 21,
-      "2021-12-29": 323
+      "2022-01-01": 21
     }
   },
   {
@@ -354,10 +350,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 282,
-    "timeDay": 114,
-    "timeWeek": 221,
-    "timeMonth": 226,
-    "timeYear": 260,
+    "timeDay": 171,
+    "timeWeek": 202,
+    "timeMonth": 221,
+    "timeYear": 259,
     "dailyMinutesDown": {}
   },
   {
@@ -369,12 +365,12 @@
     "uptime": "97.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.36%",
-    "uptimeYear": "96.26%",
+    "uptimeMonth": "99.42%",
+    "uptimeYear": "96.37%",
     "time": 1088,
-    "timeDay": 566,
-    "timeWeek": 867,
-    "timeMonth": 898,
+    "timeDay": 556,
+    "timeWeek": 799,
+    "timeMonth": 889,
     "timeYear": 849,
     "dailyMinutesDown": {
       "2022-12-12": 228,
@@ -438,8 +434,7 @@
       "2022-01-21": 17,
       "2022-01-12": 258,
       "2022-01-10": 24,
-      "2022-01-03": 26,
-      "2021-12-29": 323
+      "2022-01-03": 26
     }
   },
   {
@@ -453,11 +448,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 277,
-    "timeDay": 43,
-    "timeWeek": 126,
-    "timeMonth": 177,
-    "timeYear": 277,
+    "time": 276,
+    "timeDay": 170,
+    "timeWeek": 131,
+    "timeMonth": 180,
+    "timeYear": 276,
     "dailyMinutesDown": {
       "2022-07-01": 26,
       "2022-06-30": 173,
@@ -472,17 +467,16 @@
     "slug": "luann-spencer-steele",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.90%",
     "time": 330,
-    "timeDay": 68,
-    "timeWeek": 96,
-    "timeMonth": 350,
+    "timeDay": 53,
+    "timeWeek": 95,
+    "timeMonth": 348,
     "timeYear": 312,
     "dailyMinutesDown": {
-      "2022-12-28": 11,
       "2022-11-30": 22,
       "2022-11-15": 48,
       "2022-11-03": 16,
