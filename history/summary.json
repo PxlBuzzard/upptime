@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 274,
-    "timeDay": 190,
-    "timeWeek": 222,
-    "timeMonth": 220,
+    "timeDay": 186,
+    "timeWeek": 211,
+    "timeMonth": 214,
     "timeYear": 271,
     "dailyMinutesDown": {}
   },
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/archivebox.pxlbuzzard.com.ico",
     "slug": "archive-box",
     "status": "down",
-    "uptime": "60.55%",
+    "uptime": "60.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 127,
-    "timeDay": 154,
-    "timeWeek": 93,
-    "timeMonth": 91,
+    "time": 126,
+    "timeDay": 99,
+    "timeWeek": 98,
+    "timeMonth": 93,
     "timeYear": 88,
     "dailyMinutesDown": {
-      "2024-05-15": 7,
+      "2024-05-16": 6,
+      "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 1440,
       "2024-05-12": 1440,
@@ -397,8 +398,7 @@
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
-      "2023-05-18": 1440,
-      "2023-05-17": 1440
+      "2023-05-18": 1440
     }
   },
   {
@@ -407,18 +407,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.pxlbuzzard.com.ico",
     "slug": "gitea",
     "status": "down",
-    "uptime": "61.05%",
+    "uptime": "60.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 100,
-    "timeDay": 137,
-    "timeWeek": 69,
+    "timeDay": 107,
+    "timeWeek": 72,
     "timeMonth": 82,
     "timeYear": 82,
     "dailyMinutesDown": {
-      "2024-05-15": 7,
+      "2024-05-16": 6,
+      "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 1440,
       "2024-05-12": 1440,
@@ -781,8 +782,7 @@
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
-      "2023-05-18": 1440,
-      "2023-05-17": 1440
+      "2023-05-18": 1440
     }
   },
   {
@@ -791,18 +791,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/homeassistant.pxlbuzzard.com.ico",
     "slug": "home-assistant",
     "status": "down",
-    "uptime": "56.74%",
+    "uptime": "56.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 96,
-    "timeDay": 49,
-    "timeWeek": 54,
+    "timeDay": 34,
+    "timeWeek": 53,
     "timeMonth": 73,
     "timeYear": 76,
     "dailyMinutesDown": {
-      "2024-05-15": 7,
+      "2024-05-16": 6,
+      "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 1440,
       "2024-05-12": 1440,
@@ -1165,8 +1166,7 @@
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
-      "2023-05-18": 1440,
-      "2023-05-17": 1440
+      "2023-05-18": 1440
     }
   },
   {
@@ -1175,18 +1175,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/request.pxlbuzzard.com.ico",
     "slug": "overseerr",
     "status": "down",
-    "uptime": "56.78%",
+    "uptime": "56.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 203,
-    "timeDay": 126,
-    "timeWeek": 81,
-    "timeMonth": 89,
-    "timeYear": 76,
+    "time": 202,
+    "timeDay": 140,
+    "timeWeek": 86,
+    "timeMonth": 92,
+    "timeYear": 77,
     "dailyMinutesDown": {
-      "2024-05-15": 7,
+      "2024-05-16": 6,
+      "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 1440,
       "2024-05-12": 1440,
@@ -1549,8 +1550,7 @@
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
-      "2023-05-18": 1440,
-      "2023-05-17": 1440
+      "2023-05-18": 1440
     }
   },
   {
@@ -1565,9 +1565,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 97,
-    "timeDay": 74,
-    "timeWeek": 56,
-    "timeMonth": 73,
+    "timeDay": 69,
+    "timeWeek": 60,
+    "timeMonth": 74,
     "timeYear": 73,
     "dailyMinutesDown": {}
   },
@@ -1577,18 +1577,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/share.pxlbuzzard.com.ico",
     "slug": "x-back-bone",
     "status": "down",
-    "uptime": "56.77%",
+    "uptime": "56.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 147,
-    "timeDay": 75,
-    "timeWeek": 77,
-    "timeMonth": 72,
+    "time": 146,
+    "timeDay": 110,
+    "timeWeek": 78,
+    "timeMonth": 74,
     "timeYear": 72,
     "dailyMinutesDown": {
-      "2024-05-15": 7,
+      "2024-05-16": 7,
+      "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 1440,
       "2024-05-12": 1440,
@@ -1951,8 +1952,7 @@
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
-      "2023-05-18": 1440,
-      "2023-05-17": 1440
+      "2023-05-18": 1440
     }
   },
   {
@@ -1967,9 +1967,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 131,
-    "timeDay": 77,
-    "timeWeek": 95,
-    "timeMonth": 112,
+    "timeDay": 29,
+    "timeWeek": 91,
+    "timeMonth": 107,
     "timeYear": 129,
     "dailyMinutesDown": {
       "2023-12-05": 15
@@ -1986,11 +1986,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 152,
-    "timeDay": 129,
-    "timeWeek": 146,
-    "timeMonth": 132,
-    "timeYear": 153,
+    "time": 153,
+    "timeDay": 229,
+    "timeWeek": 158,
+    "timeMonth": 138,
+    "timeYear": 154,
     "dailyMinutesDown": {
       "2024-03-16": 60
     }
