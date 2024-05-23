@@ -34,7 +34,7 @@
     "timeMonth": 98,
     "timeYear": 88,
     "dailyMinutesDown": {
-      "2024-05-23": 546,
+      "2024-05-23": 558,
       "2024-05-22": 1440,
       "2024-05-21": 1440,
       "2024-05-20": 1440,
@@ -418,7 +418,7 @@
     "timeMonth": 80,
     "timeYear": 82,
     "dailyMinutesDown": {
-      "2024-05-23": 546,
+      "2024-05-23": 558,
       "2024-05-22": 1440,
       "2024-05-21": 1440,
       "2024-05-20": 1440,
@@ -802,7 +802,7 @@
     "timeMonth": 74,
     "timeYear": 76,
     "dailyMinutesDown": {
-      "2024-05-23": 546,
+      "2024-05-23": 558,
       "2024-05-22": 1440,
       "2024-05-21": 1440,
       "2024-05-20": 1440,
@@ -1186,7 +1186,7 @@
     "timeMonth": 88,
     "timeYear": 76,
     "dailyMinutesDown": {
-      "2024-05-23": 546,
+      "2024-05-23": 558,
       "2024-05-22": 1440,
       "2024-05-21": 1440,
       "2024-05-20": 1440,
@@ -1588,7 +1588,7 @@
     "timeMonth": 78,
     "timeYear": 72,
     "dailyMinutesDown": {
-      "2024-05-23": 546,
+      "2024-05-23": 558,
       "2024-05-22": 1440,
       "2024-05-21": 1440,
       "2024-05-20": 1440,
@@ -1980,19 +1980,19 @@
     "url": "https://luannspencersteele.com",
     "icon": "https://icons.duckduckgo.com/ip3/luannspencersteele.com.ico",
     "slug": "luann-spencer-steele",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 158,
-    "timeDay": 1544,
-    "timeWeek": 486,
-    "timeMonth": 227,
+    "timeDay": 1053,
+    "timeWeek": 440,
+    "timeMonth": 222,
     "timeYear": 160,
     "dailyMinutesDown": {
-      "2024-05-23": 0,
+      "2024-05-23": 12,
       "2024-03-16": 60
     }
   }
