@@ -34,7 +34,7 @@
     "timeMonth": 109,
     "timeYear": 90,
     "dailyMinutesDown": {
-      "2024-08-03": 7,
+      "2024-08-03": 131,
       "2024-08-02": 1440,
       "2024-08-01": 1440,
       "2024-07-31": 1440,
@@ -418,7 +418,7 @@
     "timeMonth": 110,
     "timeYear": 84,
     "dailyMinutesDown": {
-      "2024-08-03": 7,
+      "2024-08-03": 131,
       "2024-08-02": 1440,
       "2024-08-01": 1440,
       "2024-07-31": 1440,
@@ -791,7 +791,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/homeassistant.pxlbuzzard.com.ico",
     "slug": "home-assistant",
     "status": "down",
-    "uptime": "52.80%",
+    "uptime": "52.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -802,7 +802,7 @@
     "timeMonth": 104,
     "timeYear": 78,
     "dailyMinutesDown": {
-      "2024-08-03": 7,
+      "2024-08-03": 131,
       "2024-08-02": 1440,
       "2024-08-01": 1440,
       "2024-07-31": 1440,
@@ -1186,7 +1186,7 @@
     "timeMonth": 102,
     "timeYear": 76,
     "dailyMinutesDown": {
-      "2024-08-03": 7,
+      "2024-08-03": 131,
       "2024-08-02": 1440,
       "2024-08-01": 1440,
       "2024-07-31": 1440,
@@ -1588,7 +1588,7 @@
     "timeMonth": 92,
     "timeYear": 71,
     "dailyMinutesDown": {
-      "2024-08-03": 7,
+      "2024-08-03": 131,
       "2024-08-02": 1440,
       "2024-08-01": 1440,
       "2024-07-31": 1440,
@@ -1980,9 +1980,9 @@
     "url": "https://luannspencersteele.com",
     "icon": "https://icons.duckduckgo.com/ip3/luannspencersteele.com.ico",
     "slug": "luann-spencer-steele",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -1992,6 +1992,7 @@
     "timeMonth": 124,
     "timeYear": 158,
     "dailyMinutesDown": {
+      "2024-08-03": 0,
       "2024-03-16": 60
     }
   }
