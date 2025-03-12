@@ -34,7 +34,7 @@
     "timeMonth": 111,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2025-03-12": 546,
+      "2025-03-12": 559,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
@@ -406,16 +406,16 @@
     "url": "https://git.pxlbuzzard.com",
     "icon": "https://icons.duckduckgo.com/ip3/git.pxlbuzzard.com.ico",
     "slug": "gitea",
-    "status": "up",
-    "uptime": "97.45%",
-    "uptimeDay": "13.41%",
-    "uptimeWeek": "1.92%",
-    "uptimeMonth": "8.40%",
-    "uptimeYear": "89.60%",
+    "status": "down",
+    "uptime": "97.46%",
+    "uptimeDay": "14.25%",
+    "uptimeWeek": "2.04%",
+    "uptimeMonth": "8.42%",
+    "uptimeYear": "89.63%",
     "time": 134,
-    "timeDay": 221,
-    "timeWeek": 202,
-    "timeMonth": 165,
+    "timeDay": 216,
+    "timeWeek": 198,
+    "timeMonth": 163,
     "timeYear": 147,
     "dailyMinutesDown": {
       "2025-03-12": 426,
@@ -457,7 +457,7 @@
       "2025-02-04": 1283,
       "2025-02-03": 1228,
       "2025-02-02": 1204,
-      "2025-02-01": 767
+      "2025-02-01": 587
     }
   },
   {
@@ -465,9 +465,9 @@
     "url": "https://homeassistant.pxlbuzzard.com",
     "icon": "https://icons.duckduckgo.com/ip3/homeassistant.pxlbuzzard.com.ico",
     "slug": "home-assistant",
-    "status": "up",
+    "status": "down",
     "uptime": "47.44%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.45%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "11.71%",
@@ -477,6 +477,7 @@
     "timeMonth": 788,
     "timeYear": 192,
     "dailyMinutesDown": {
+      "2025-03-12": 0,
       "2025-03-05": 56,
       "2025-01-28": 1133,
       "2025-01-27": 1440,
@@ -819,7 +820,7 @@
     "timeMonth": 150,
     "timeYear": 105,
     "dailyMinutesDown": {
-      "2025-03-12": 501,
+      "2025-03-12": 513,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
@@ -1221,7 +1222,7 @@
     "timeMonth": 120,
     "timeYear": 95,
     "dailyMinutesDown": {
-      "2025-03-12": 535,
+      "2025-03-12": 547,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
