@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/archivebox.pxlbuzzard.com.ico",
     "slug": "archive-box",
     "status": "down",
-    "uptime": "48.28%",
+    "uptime": "48.27%",
     "uptimeDay": "0.55%",
     "uptimeWeek": "0.19%",
     "uptimeMonth": "8.00%",
@@ -34,7 +34,7 @@
     "timeMonth": 146,
     "timeYear": 116,
     "dailyMinutesDown": {
-      "2025-03-14": 1278,
+      "2025-03-14": 1287,
       "2025-03-13": 1440,
       "2025-03-12": 1428,
       "2025-03-11": 1440,
@@ -406,16 +406,16 @@
     "url": "https://git.pxlbuzzard.com",
     "icon": "https://icons.duckduckgo.com/ip3/git.pxlbuzzard.com.ico",
     "slug": "gitea",
-    "status": "up",
+    "status": "down",
     "uptime": "97.36%",
-    "uptimeDay": "3.35%",
-    "uptimeWeek": "5.33%",
-    "uptimeMonth": "9.18%",
+    "uptimeDay": "3.95%",
+    "uptimeWeek": "5.42%",
+    "uptimeMonth": "9.20%",
     "uptimeYear": "89.19%",
-    "time": 138,
-    "timeDay": 193,
-    "timeWeek": 196,
-    "timeMonth": 176,
+    "time": 139,
+    "timeDay": 184,
+    "timeWeek": 195,
+    "timeMonth": 175,
     "timeYear": 149,
     "dailyMinutesDown": {
       "2025-03-14": 1238,
@@ -458,7 +458,7 @@
       "2025-02-05": 1184,
       "2025-02-04": 1283,
       "2025-02-03": 1228,
-      "2025-02-02": 839
+      "2025-02-02": 820
     }
   },
   {
@@ -818,7 +818,7 @@
     "timeMonth": 169,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2025-03-14": 1286,
+      "2025-03-14": 1295,
       "2025-03-13": 1440,
       "2025-03-12": 1378,
       "2025-03-11": 1440,
@@ -1220,7 +1220,7 @@
     "timeMonth": 124,
     "timeYear": 95,
     "dailyMinutesDown": {
-      "2025-03-14": 1286,
+      "2025-03-14": 1295,
       "2025-03-13": 1440,
       "2025-03-12": 1428,
       "2025-03-11": 1440,
