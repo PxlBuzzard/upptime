@@ -34,7 +34,7 @@
     "timeMonth": 214,
     "timeYear": 127,
     "dailyMinutesDown": {
-      "2025-03-17": 104,
+      "2025-03-17": 156,
       "2025-03-16": 1393,
       "2025-03-15": 1403,
       "2025-03-14": 1432,
@@ -406,16 +406,16 @@
     "url": "https://git.pxlbuzzard.com",
     "icon": "https://icons.duckduckgo.com/ip3/git.pxlbuzzard.com.ico",
     "slug": "gitea",
-    "status": "up",
+    "status": "down",
     "uptime": "97.45%",
-    "uptimeDay": "33.56%",
-    "uptimeWeek": "15.62%",
-    "uptimeMonth": "11.55%",
-    "uptimeYear": "89.56%",
+    "uptimeDay": "36.89%",
+    "uptimeWeek": "16.13%",
+    "uptimeMonth": "11.67%",
+    "uptimeYear": "89.57%",
     "time": 144,
-    "timeDay": 164,
+    "timeDay": 162,
     "timeWeek": 180,
-    "timeMonth": 174,
+    "timeMonth": 173,
     "timeYear": 152,
     "dailyMinutesDown": {
       "2025-03-17": 140,
@@ -458,7 +458,7 @@
       "2025-02-08": 1440,
       "2025-02-07": 1440,
       "2025-02-06": 1135,
-      "2025-02-05": 414
+      "2025-02-05": 381
     }
   },
   {
@@ -467,11 +467,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/homeassistant.pxlbuzzard.com.ico",
     "slug": "home-assistant",
     "status": "up",
-    "uptime": "47.62%",
+    "uptime": "47.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
-    "uptimeYear": "13.01%",
+    "uptimeYear": "13.02%",
     "time": 173,
     "timeDay": 662,
     "timeWeek": 826,
@@ -815,7 +815,7 @@
     "timeMonth": 186,
     "timeYear": 114,
     "dailyMinutesDown": {
-      "2025-03-17": 168,
+      "2025-03-17": 219,
       "2025-03-16": 1371,
       "2025-03-15": 1393,
       "2025-03-14": 1440,
@@ -1217,7 +1217,7 @@
     "timeMonth": 124,
     "timeYear": 95,
     "dailyMinutesDown": {
-      "2025-03-17": 168,
+      "2025-03-17": 219,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
