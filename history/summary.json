@@ -34,7 +34,7 @@
     "timeMonth": 225,
     "timeYear": 130,
     "dailyMinutesDown": {
-      "2025-03-18": 479,
+      "2025-03-18": 490,
       "2025-03-17": 1354,
       "2025-03-16": 1393,
       "2025-03-15": 1403,
@@ -406,16 +406,16 @@
     "url": "https://git.pxlbuzzard.com",
     "icon": "https://icons.duckduckgo.com/ip3/git.pxlbuzzard.com.ico",
     "slug": "gitea",
-    "status": "up",
-    "uptime": "97.46%",
-    "uptimeDay": "31.26%",
-    "uptimeWeek": "21.49%",
-    "uptimeMonth": "12.90%",
-    "uptimeYear": "89.60%",
+    "status": "down",
+    "uptime": "97.47%",
+    "uptimeDay": "32.00%",
+    "uptimeWeek": "21.60%",
+    "uptimeMonth": "12.93%",
+    "uptimeYear": "89.61%",
     "time": 144,
-    "timeDay": 184,
-    "timeWeek": 181,
-    "timeMonth": 176,
+    "timeDay": 182,
+    "timeWeek": 180,
+    "timeMonth": 175,
     "timeYear": 154,
     "dailyMinutesDown": {
       "2025-03-18": 312,
@@ -458,7 +458,7 @@
       "2025-02-09": 1440,
       "2025-02-08": 1440,
       "2025-02-07": 1440,
-      "2025-02-06": 151
+      "2025-02-06": 77
     }
   },
   {
@@ -471,7 +471,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
-    "uptimeYear": "13.34%",
+    "uptimeYear": "13.35%",
     "time": 174,
     "timeDay": 761,
     "timeWeek": 854,
@@ -814,7 +814,7 @@
     "timeMonth": 213,
     "timeYear": 121,
     "dailyMinutesDown": {
-      "2025-03-18": 514,
+      "2025-03-18": 524,
       "2025-03-17": 1395,
       "2025-03-16": 1371,
       "2025-03-15": 1393,
@@ -1216,7 +1216,7 @@
     "timeMonth": 124,
     "timeYear": 95,
     "dailyMinutesDown": {
-      "2025-03-18": 514,
+      "2025-03-18": 525,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
