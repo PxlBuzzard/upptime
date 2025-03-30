@@ -22,16 +22,16 @@
     "url": "https://archivebox.pxlbuzzard.com",
     "icon": "https://icons.duckduckgo.com/ip3/archivebox.pxlbuzzard.com.ico",
     "slug": "archive-box",
-    "status": "up",
-    "uptime": "96.31%",
-    "uptimeDay": "11.38%",
-    "uptimeWeek": "6.92%",
-    "uptimeMonth": "4.58%",
-    "uptimeYear": "84.74%",
+    "status": "down",
+    "uptime": "96.36%",
+    "uptimeDay": "11.98%",
+    "uptimeWeek": "7.00%",
+    "uptimeMonth": "4.60%",
+    "uptimeYear": "84.94%",
     "time": 182,
-    "timeDay": 314,
-    "timeWeek": 362,
-    "timeMonth": 326,
+    "timeDay": 305,
+    "timeWeek": 359,
+    "timeMonth": 325,
     "timeYear": 200,
     "dailyMinutesDown": {
       "2025-03-30": 1102,
@@ -90,7 +90,7 @@
       "2025-02-05": 1440,
       "2025-02-04": 1432,
       "2025-02-03": 1440,
-      "2025-02-02": 1206
+      "2025-02-02": 119
     }
   },
   {
@@ -98,15 +98,15 @@
     "url": "https://git.pxlbuzzard.com",
     "icon": "https://icons.duckduckgo.com/ip3/git.pxlbuzzard.com.ico",
     "slug": "gitea",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "62.44%",
-    "uptimeWeek": "36.19%",
-    "uptimeMonth": "76.42%",
-    "uptimeYear": "98.03%",
+    "uptimeDay": "62.43%",
+    "uptimeWeek": "36.27%",
+    "uptimeMonth": "76.46%",
+    "uptimeYear": "98.04%",
     "time": 159,
-    "timeDay": 179,
-    "timeWeek": 199,
+    "timeDay": 177,
+    "timeWeek": 198,
     "timeMonth": 187,
     "timeYear": 168,
     "dailyMinutesDown": {
@@ -120,7 +120,7 @@
       "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 763,
-      "2025-03-20": 464
+      "2025-03-20": 447
     }
   },
   {
@@ -464,7 +464,7 @@
     "timeMonth": 255,
     "timeYear": 165,
     "dailyMinutesDown": {
-      "2025-03-30": 1137,
+      "2025-03-30": 1145,
       "2025-03-29": 1204,
       "2025-03-28": 1278,
       "2025-03-27": 1212,
@@ -560,7 +560,7 @@
     "timeMonth": 540,
     "timeYear": 175,
     "dailyMinutesDown": {
-      "2025-03-30": 1168,
+      "2025-03-30": 1176,
       "2025-03-29": 1399,
       "2025-03-28": 1399,
       "2025-03-27": 1412,
