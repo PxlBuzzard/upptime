@@ -13,7 +13,7 @@
     "time": 276,
     "timeDay": 474,
     "timeWeek": 342,
-    "timeMonth": 283,
+    "timeMonth": 279,
     "timeYear": 273,
     "dailyMinutesDown": {}
   },
@@ -24,17 +24,18 @@
     "slug": "archive-box",
     "status": "down",
     "uptime": "49.21%",
-    "uptimeDay": "16.46%",
+    "uptimeDay": "15.54%",
     "uptimeWeek": "5.63%",
-    "uptimeMonth": "7.57%",
+    "uptimeMonth": "4.28%",
     "uptimeYear": "0.26%",
     "time": 176,
-    "timeDay": 363,
+    "timeDay": 354,
     "timeWeek": 373,
-    "timeMonth": 329,
+    "timeMonth": 328,
     "timeYear": 197,
     "dailyMinutesDown": {
-      "2025-03-29": 1194,
+      "2025-03-30": 9,
+      "2025-03-29": 1208,
       "2025-03-28": 1278,
       "2025-03-27": 1289,
       "2025-03-26": 1419,
@@ -397,8 +398,7 @@
       "2024-04-03": 1440,
       "2024-04-02": 1440,
       "2024-04-01": 1440,
-      "2024-03-31": 1440,
-      "2024-03-30": 1440
+      "2024-03-31": 1440
     }
   },
   {
@@ -407,18 +407,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.pxlbuzzard.com.ico",
     "slug": "gitea",
     "status": "up",
-    "uptime": "99.53%",
-    "uptimeDay": "72.39%",
-    "uptimeWeek": "28.80%",
-    "uptimeMonth": "76.53%",
-    "uptimeYear": "98.04%",
+    "uptime": "99.52%",
+    "uptimeDay": "72.94%",
+    "uptimeWeek": "29.12%",
+    "uptimeMonth": "76.41%",
+    "uptimeYear": "98.03%",
     "time": 161,
     "timeDay": 186,
     "timeWeek": 204,
     "timeMonth": 188,
     "timeYear": 167,
     "dailyMinutesDown": {
-      "2025-03-29": 397,
+      "2025-03-29": 389,
       "2025-03-28": 620,
       "2025-03-27": 689,
       "2025-03-26": 1137,
@@ -428,7 +428,7 @@
       "2025-03-22": 1440,
       "2025-03-21": 763,
       "2025-03-20": 593,
-      "2025-03-19": 324
+      "2025-03-19": 386
     }
   },
   {
@@ -441,11 +441,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
-    "uptimeYear": "16.53%",
+    "uptimeYear": "16.54%",
     "time": 192,
     "timeDay": 912,
     "timeWeek": 929,
-    "timeMonth": 771,
+    "timeMonth": 761,
     "timeYear": 231,
     "dailyMinutesDown": {
       "2025-03-05": 56,
@@ -752,8 +752,7 @@
       "2024-04-03": 1440,
       "2024-04-02": 1440,
       "2024-04-01": 1440,
-      "2024-03-31": 1440,
-      "2024-03-30": 1440
+      "2024-03-31": 1440
     }
   },
   {
@@ -763,17 +762,18 @@
     "slug": "overseerr",
     "status": "down",
     "uptime": "44.92%",
-    "uptimeDay": "16.64%",
+    "uptimeDay": "16.46%",
     "uptimeWeek": "6.95%",
-    "uptimeMonth": "7.68%",
+    "uptimeMonth": "4.39%",
     "uptimeYear": "0.26%",
     "time": 146,
-    "timeDay": 276,
+    "timeDay": 279,
     "timeWeek": 268,
     "timeMonth": 254,
     "timeYear": 162,
     "dailyMinutesDown": {
-      "2025-03-29": 1190,
+      "2025-03-30": 10,
+      "2025-03-29": 1204,
       "2025-03-28": 1278,
       "2025-03-27": 1212,
       "2025-03-26": 1368,
@@ -1136,8 +1136,7 @@
       "2024-04-03": 1440,
       "2024-04-02": 1440,
       "2024-04-01": 1440,
-      "2024-03-31": 1440,
-      "2024-03-30": 1440
+      "2024-03-31": 1440
     }
   },
   {
@@ -1154,7 +1153,7 @@
     "time": 85,
     "timeDay": 129,
     "timeWeek": 134,
-    "timeMonth": 121,
+    "timeMonth": 119,
     "timeYear": 89,
     "dailyMinutesDown": {}
   },
@@ -1167,15 +1166,16 @@
     "uptime": "43.80%",
     "uptimeDay": "2.87%",
     "uptimeWeek": "1.10%",
-    "uptimeMonth": "5.10%",
+    "uptimeMonth": "1.82%",
     "uptimeYear": "0.04%",
     "time": 129,
     "timeDay": 692,
     "timeWeek": 646,
-    "timeMonth": 514,
+    "timeMonth": 508,
     "timeYear": 159,
     "dailyMinutesDown": {
-      "2025-03-29": 1385,
+      "2025-03-30": 10,
+      "2025-03-29": 1399,
       "2025-03-28": 1399,
       "2025-03-27": 1412,
       "2025-03-26": 1440,
@@ -1538,8 +1538,7 @@
       "2024-04-03": 1440,
       "2024-04-02": 1440,
       "2024-04-01": 1440,
-      "2024-03-31": 1440,
-      "2024-03-30": 1440
+      "2024-03-31": 1440
     }
   },
   {
@@ -1556,7 +1555,7 @@
     "time": 133,
     "timeDay": 199,
     "timeWeek": 183,
-    "timeMonth": 151,
+    "timeMonth": 148,
     "timeYear": 136,
     "dailyMinutesDown": {}
   },
