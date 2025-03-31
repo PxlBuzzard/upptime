@@ -13,7 +13,7 @@
     "time": 276,
     "timeDay": 540,
     "timeWeek": 398,
-    "timeMonth": 292,
+    "timeMonth": 288,
     "timeYear": 274,
     "dailyMinutesDown": {}
   },
@@ -26,15 +26,16 @@
     "uptime": "96.45%",
     "uptimeDay": "9.78%",
     "uptimeWeek": "7.03%",
-    "uptimeMonth": "4.60%",
+    "uptimeMonth": "1.32%",
     "uptimeYear": "85.33%",
     "time": 182,
     "timeDay": 289,
     "timeWeek": 358,
-    "timeMonth": 325,
+    "timeMonth": 324,
     "timeYear": 201,
     "dailyMinutesDown": {
-      "2025-03-30": 1294,
+      "2025-03-31": 9,
+      "2025-03-30": 1299,
       "2025-03-29": 1208,
       "2025-03-28": 1278,
       "2025-03-27": 1289,
@@ -98,9 +99,9 @@
     "slug": "gitea",
     "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "58.90%",
+    "uptimeDay": "57.93%",
     "uptimeWeek": "37.39%",
-    "uptimeMonth": "76.51%",
+    "uptimeMonth": "76.47%",
     "uptimeYear": "98.04%",
     "time": 159,
     "timeDay": 172,
@@ -108,7 +109,8 @@
     "timeMonth": 186,
     "timeYear": 168,
     "dailyMinutesDown": {
-      "2025-03-30": 592,
+      "2025-03-31": 9,
+      "2025-03-30": 597,
       "2025-03-29": 389,
       "2025-03-28": 620,
       "2025-03-27": 689,
@@ -135,7 +137,7 @@
     "time": 195,
     "timeDay": 2074,
     "timeWeek": 1151,
-    "timeMonth": 802,
+    "timeMonth": 790,
     "timeYear": 236,
     "dailyMinutesDown": {
       "2025-03-05": 56,
@@ -441,8 +443,7 @@
       "2024-04-04": 1440,
       "2024-04-03": 1440,
       "2024-04-02": 1440,
-      "2024-04-01": 1440,
-      "2024-03-31": 1440
+      "2024-04-01": 1440
     }
   },
   {
@@ -454,15 +455,16 @@
     "uptime": "95.85%",
     "uptimeDay": "6.57%",
     "uptimeWeek": "7.89%",
-    "uptimeMonth": "4.61%",
+    "uptimeMonth": "1.32%",
     "uptimeYear": "84.18%",
     "time": 149,
     "timeDay": 263,
     "timeWeek": 268,
-    "timeMonth": 255,
+    "timeMonth": 254,
     "timeYear": 165,
     "dailyMinutesDown": {
-      "2025-03-30": 1340,
+      "2025-03-31": 9,
+      "2025-03-30": 1345,
       "2025-03-29": 1204,
       "2025-03-28": 1278,
       "2025-03-27": 1212,
@@ -537,7 +539,7 @@
     "time": 85,
     "timeDay": 81,
     "timeWeek": 133,
-    "timeMonth": 119,
+    "timeMonth": 118,
     "timeYear": 89,
     "dailyMinutesDown": {}
   },
@@ -550,15 +552,16 @@
     "uptime": "43.78%",
     "uptimeDay": "4.55%",
     "uptimeWeek": "1.75%",
-    "uptimeMonth": "1.97%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.05%",
     "time": 144,
     "timeDay": 746,
     "timeWeek": 693,
-    "timeMonth": 554,
+    "timeMonth": 548,
     "timeYear": 178,
     "dailyMinutesDown": {
-      "2025-03-30": 1371,
+      "2025-03-31": 9,
+      "2025-03-30": 1376,
       "2025-03-29": 1399,
       "2025-03-28": 1399,
       "2025-03-27": 1412,
@@ -921,8 +924,7 @@
       "2024-04-04": 1440,
       "2024-04-03": 1440,
       "2024-04-02": 1440,
-      "2024-04-01": 1440,
-      "2024-03-31": 1440
+      "2024-04-01": 1440
     }
   },
   {
@@ -939,7 +941,7 @@
     "time": 134,
     "timeDay": 237,
     "timeWeek": 196,
-    "timeMonth": 154,
+    "timeMonth": 151,
     "timeYear": 136,
     "dailyMinutesDown": {}
   },
