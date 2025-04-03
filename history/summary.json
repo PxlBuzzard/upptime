@@ -24,8 +24,8 @@
     "slug": "archive-box",
     "status": "up",
     "uptime": "99.26%",
-    "uptimeDay": "62.11%",
-    "uptimeWeek": "24.91%",
+    "uptimeDay": "62.93%",
+    "uptimeWeek": "25.02%",
     "uptimeMonth": "63.22%",
     "uptimeYear": "96.93%",
     "time": 209,
@@ -56,10 +56,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.pxlbuzzard.com.ico",
     "slug": "gitea",
     "status": "down",
-    "uptime": "99.37%",
+    "uptime": "99.36%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "39.12%",
-    "uptimeMonth": "68.47%",
+    "uptimeWeek": "39.01%",
+    "uptimeMonth": "68.44%",
     "uptimeYear": "97.37%",
     "time": 162,
     "timeDay": 318,
@@ -67,7 +67,8 @@
     "timeMonth": 187,
     "timeYear": 168,
     "dailyMinutesDown": {
-      "2025-04-02": 1437,
+      "2025-04-03": 9,
+      "2025-04-02": 1440,
       "2025-04-01": 1440,
       "2025-03-31": 965,
       "2025-03-30": 597,
@@ -400,8 +401,7 @@
       "2024-04-07": 1440,
       "2024-04-06": 1440,
       "2024-04-05": 1440,
-      "2024-04-04": 1440,
-      "2024-04-03": 1440
+      "2024-04-04": 1440
     }
   },
   {
@@ -412,7 +412,7 @@
     "status": "up",
     "uptime": "99.56%",
     "uptimeDay": "58.28%",
-    "uptimeWeek": "23.59%",
+    "uptimeWeek": "23.70%",
     "uptimeMonth": "79.67%",
     "uptimeYear": "98.31%",
     "time": 177,
@@ -456,7 +456,7 @@
     "slug": "x-back-bone",
     "status": "down",
     "uptime": "44.25%",
-    "uptimeDay": "39.10%",
+    "uptimeDay": "38.28%",
     "uptimeWeek": "10.61%",
     "uptimeMonth": "0.72%",
     "uptimeYear": "0.22%",
@@ -466,7 +466,8 @@
     "timeMonth": 809,
     "timeYear": 338,
     "dailyMinutesDown": {
-      "2025-04-02": 879,
+      "2025-04-03": 9,
+      "2025-04-02": 882,
       "2025-04-01": 1124,
       "2025-03-31": 1425,
       "2025-03-30": 1376,
@@ -829,8 +830,7 @@
       "2024-04-07": 1440,
       "2024-04-06": 1440,
       "2024-04-05": 1440,
-      "2024-04-04": 1440,
-      "2024-04-03": 1440
+      "2024-04-04": 1440
     }
   },
   {
