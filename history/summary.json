@@ -54,18 +54,19 @@
     "url": "https://git.pxlbuzzard.com",
     "icon": "https://icons.duckduckgo.com/ip3/git.pxlbuzzard.com.ico",
     "slug": "gitea",
-    "status": "up",
+    "status": "down",
     "uptime": "98.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "56.10%",
-    "uptimeMonth": "42.83%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "56.23%",
+    "uptimeMonth": "42.89%",
     "uptimeYear": "95.24%",
     "time": 164,
-    "timeDay": 372,
-    "timeWeek": 205,
+    "timeDay": 345,
+    "timeWeek": 201,
     "timeMonth": 189,
     "timeYear": 171,
     "dailyMinutesDown": {
+      "2025-04-15": 0,
       "2025-04-14": 1157,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
@@ -89,7 +90,7 @@
       "2025-03-24": 1440,
       "2025-03-23": 1440,
       "2025-03-22": 1440,
-      "2025-03-21": 247
+      "2025-03-21": 220
     }
   },
   {
@@ -100,7 +101,7 @@
     "status": "up",
     "uptime": "48.39%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "43.71%",
+    "uptimeWeek": "43.88%",
     "uptimeMonth": "83.79%",
     "uptimeYear": "19.83%",
     "time": 207,
@@ -411,17 +412,17 @@
     "url": "https://request.pxlbuzzard.com",
     "icon": "https://icons.duckduckgo.com/ip3/request.pxlbuzzard.com.ico",
     "slug": "overseerr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "98.62%",
-    "uptimeWeek": "52.33%",
-    "uptimeMonth": "83.15%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "52.38%",
+    "uptimeMonth": "83.20%",
     "uptimeYear": "98.60%",
-    "time": 236,
-    "timeDay": 321,
-    "timeWeek": 341,
+    "time": 224,
+    "timeDay": 297,
+    "timeWeek": 339,
     "timeMonth": 310,
-    "timeYear": 250,
+    "timeYear": 249,
     "dailyMinutesDown": {
       "2025-04-15": 20,
       "2025-04-14": 1135,
@@ -435,7 +436,7 @@
       "2025-04-06": 447,
       "2025-04-05": 357,
       "2025-04-04": 323,
-      "2025-04-03": 544
+      "2025-04-03": 521
     }
   },
   {
@@ -463,9 +464,9 @@
     "slug": "x-back-bone",
     "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "44.14%",
-    "uptimeMonth": "79.54%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "44.42%",
+    "uptimeMonth": "79.48%",
     "uptimeYear": "98.29%",
     "time": 521,
     "timeDay": 931,
@@ -473,7 +474,6 @@
     "timeMonth": 857,
     "timeYear": 572,
     "dailyMinutesDown": {
-      "2025-04-15": 11,
       "2025-04-14": 1229,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
@@ -483,7 +483,7 @@
       "2025-04-08": 1037,
       "2025-04-07": 979,
       "2025-04-06": 950,
-      "2025-04-05": 442
+      "2025-04-05": 479
     }
   },
   {
