@@ -22,18 +22,19 @@
     "url": "https://archivebox.pxlbuzzard.com",
     "icon": "https://icons.duckduckgo.com/ip3/archivebox.pxlbuzzard.com.ico",
     "slug": "archive-box",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "98.85%",
-    "uptimeWeek": "52.32%",
-    "uptimeMonth": "83.32%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "52.54%",
+    "uptimeMonth": "83.36%",
     "uptimeYear": "98.61%",
     "time": 282,
-    "timeDay": 645,
-    "timeWeek": 438,
+    "timeDay": 612,
+    "timeWeek": 437,
     "timeMonth": 379,
     "timeYear": 301,
     "dailyMinutesDown": {
+      "2025-04-16": 0,
       "2025-04-15": 17,
       "2025-04-14": 1233,
       "2025-04-13": 1440,
@@ -47,7 +48,7 @@
       "2025-04-05": 386,
       "2025-04-04": 266,
       "2025-04-03": 472,
-      "2025-04-02": 44
+      "2025-04-02": 26
     }
   },
   {
@@ -64,7 +65,7 @@
     "time": 166,
     "timeDay": 265,
     "timeWeek": 214,
-    "timeMonth": 190,
+    "timeMonth": 191,
     "timeYear": 172,
     "dailyMinutesDown": {
       "2025-04-15": 17,
@@ -102,7 +103,7 @@
     "status": "up",
     "uptime": "48.41%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "51.60%",
+    "uptimeWeek": "51.99%",
     "uptimeMonth": "83.79%",
     "uptimeYear": "19.98%",
     "time": 207,
@@ -414,17 +415,16 @@
     "slug": "overseerr",
     "status": "up",
     "uptime": "99.64%",
-    "uptimeDay": "95.91%",
-    "uptimeWeek": "54.26%",
-    "uptimeMonth": "83.16%",
-    "uptimeYear": "98.60%",
+    "uptimeDay": "96.47%",
+    "uptimeWeek": "54.35%",
+    "uptimeMonth": "83.13%",
+    "uptimeYear": "98.59%",
     "time": 227,
     "timeDay": 307,
-    "timeWeek": 375,
+    "timeWeek": 379,
     "timeMonth": 311,
     "timeYear": 250,
     "dailyMinutesDown": {
-      "2025-04-16": 8,
       "2025-04-15": 51,
       "2025-04-14": 1135,
       "2025-04-13": 1440,
@@ -437,7 +437,7 @@
       "2025-04-06": 447,
       "2025-04-05": 357,
       "2025-04-04": 323,
-      "2025-04-03": 503
+      "2025-04-03": 521
     }
   },
   {
@@ -471,7 +471,7 @@
     "uptimeYear": "98.29%",
     "time": 483,
     "timeDay": 835,
-    "timeWeek": 895,
+    "timeWeek": 906,
     "timeMonth": 859,
     "timeYear": 573,
     "dailyMinutesDown": {
