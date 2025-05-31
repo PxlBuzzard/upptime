@@ -4,19 +4,19 @@
     "url": "https://danieljost.com",
     "icon": "https://icons.duckduckgo.com/ip3/danieljost.com.ico",
     "slug": "daniel-jost",
-    "status": "down",
+    "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 315,
-    "timeDay": 508,
-    "timeWeek": 346,
-    "timeMonth": 329,
+    "time": 316,
+    "timeDay": 360,
+    "timeWeek": 329,
+    "timeMonth": 325,
     "timeYear": 337,
     "dailyMinutesDown": {
-      "2025-05-31": 0
+      "2025-05-31": 7
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 127,
     "timeYear": 307,
     "dailyMinutesDown": {
-      "2025-05-31": 405,
+      "2025-05-31": 412,
       "2025-05-30": 1440,
       "2025-05-29": 1440,
       "2025-05-28": 1440,
@@ -114,7 +114,7 @@
     "timeMonth": 114,
     "timeYear": 175,
     "dailyMinutesDown": {
-      "2025-05-31": 405,
+      "2025-05-31": 412,
       "2025-05-30": 1440,
       "2025-05-29": 1440,
       "2025-05-28": 1440,
@@ -468,7 +468,7 @@
     "timeMonth": 115,
     "timeYear": 252,
     "dailyMinutesDown": {
-      "2025-05-31": 405,
+      "2025-05-31": 413,
       "2025-05-30": 1440,
       "2025-05-29": 1440,
       "2025-05-28": 1440,
@@ -564,7 +564,7 @@
     "timeMonth": 108,
     "timeYear": 581,
     "dailyMinutesDown": {
-      "2025-05-31": 405,
+      "2025-05-31": 413,
       "2025-05-30": 1440,
       "2025-05-29": 1440,
       "2025-05-28": 1440,
