@@ -27,14 +27,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "79.36%",
+    "uptimeYear": "79.35%",
     "time": 291,
     "timeDay": 202,
     "timeWeek": 131,
     "timeMonth": 124,
     "timeYear": 308,
     "dailyMinutesDown": {
-      "2025-06-26": 323,
+      "2025-06-26": 336,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
       "2025-06-23": 1440,
@@ -138,7 +138,7 @@
     "timeMonth": 136,
     "timeYear": 175,
     "dailyMinutesDown": {
-      "2025-06-26": 323,
+      "2025-06-26": 336,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
       "2025-06-23": 1440,
@@ -482,16 +482,16 @@
     "url": "https://request.pxlbuzzard.com",
     "icon": "https://icons.duckduckgo.com/ip3/request.pxlbuzzard.com.ico",
     "slug": "overseerr",
-    "status": "up",
+    "status": "down",
     "uptime": "94.90%",
-    "uptimeDay": "3.48%",
-    "uptimeWeek": "0.50%",
+    "uptimeDay": "4.34%",
+    "uptimeWeek": "0.62%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "79.34%",
+    "uptimeYear": "79.35%",
     "time": 232,
-    "timeDay": 300,
+    "timeDay": 287,
     "timeWeek": 211,
-    "timeMonth": 140,
+    "timeMonth": 142,
     "timeYear": 253,
     "dailyMinutesDown": {
       "2025-06-26": 274,
@@ -578,7 +578,7 @@
       "2025-04-06": 447,
       "2025-04-05": 357,
       "2025-04-04": 323,
-      "2025-04-03": 349
+      "2025-04-03": 327
     }
   },
   {
@@ -616,7 +616,7 @@
     "timeMonth": 113,
     "timeYear": 582,
     "dailyMinutesDown": {
-      "2025-06-26": 324,
+      "2025-06-26": 337,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
       "2025-06-23": 1440,
