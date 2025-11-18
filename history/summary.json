@@ -4,19 +4,19 @@
     "url": "https://danieljost.com",
     "icon": "https://icons.duckduckgo.com/ip3/danieljost.com.ico",
     "slug": "daniel-jost",
-    "status": "down",
+    "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "91.71%",
-    "uptimeWeek": "98.82%",
-    "uptimeMonth": "99.73%",
+    "uptimeDay": "90.93%",
+    "uptimeWeek": "98.70%",
+    "uptimeMonth": "99.70%",
     "uptimeYear": "99.98%",
     "time": 349,
-    "timeDay": 1636,
-    "timeWeek": 973,
-    "timeMonth": 547,
+    "timeDay": 1486,
+    "timeWeek": 943,
+    "timeMonth": 548,
     "timeYear": 374,
     "dailyMinutesDown": {
-      "2025-11-18": 119
+      "2025-11-18": 130
     }
   },
   {
@@ -29,14 +29,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "43.78%",
+    "uptimeYear": "43.77%",
     "time": 295,
     "timeDay": 272,
     "timeWeek": 153,
     "timeMonth": 152,
     "timeYear": 323,
     "dailyMinutesDown": {
-      "2025-11-18": 931,
+      "2025-11-18": 942,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -271,7 +271,7 @@
     "timeMonth": 135,
     "timeYear": 178,
     "dailyMinutesDown": {
-      "2025-11-18": 931,
+      "2025-11-18": 942,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -524,7 +524,7 @@
     "time": 473,
     "timeDay": 859,
     "timeWeek": 724,
-    "timeMonth": 774,
+    "timeMonth": 765,
     "timeYear": 611,
     "dailyMinutesDown": {
       "2025-11-10": 623,
@@ -635,7 +635,7 @@
     "timeMonth": 146,
     "timeYear": 266,
     "dailyMinutesDown": {
-      "2025-11-18": 931,
+      "2025-11-18": 942,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -888,7 +888,7 @@
     "timeMonth": 123,
     "timeYear": 602,
     "dailyMinutesDown": {
-      "2025-11-18": 931,
+      "2025-11-18": 943,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
