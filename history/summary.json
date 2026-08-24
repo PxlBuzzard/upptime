@@ -28,9 +28,9 @@
     "slug": "archive-box",
     "status": "down",
     "uptime": "80.99%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.77%",
+    "uptimeDay": "95.73%",
+    "uptimeWeek": "99.39%",
+    "uptimeMonth": "99.64%",
     "uptimeYear": "27.49%",
     "time": 384,
     "timeDay": 10128,
@@ -311,7 +311,7 @@
       "2026-07-07": 118,
       "2026-08-05": 57,
       "2026-08-12": 40,
-      "2026-08-24": 5
+      "2026-08-24": 61
     }
   },
   {
@@ -331,7 +331,7 @@
     "timeMonth": 192,
     "timeYear": 154,
     "dailyMinutesDown": {
-      "2026-08-24": 1141,
+      "2026-08-24": 1197,
       "2026-08-23": 1440,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
@@ -703,17 +703,17 @@
     "url": "https://homeassistant.pxlbuzzard.com",
     "icon": "https://icons.duckduckgo.com/ip3/homeassistant.pxlbuzzard.com.ico",
     "slug": "home-assistant",
-    "status": "down",
-    "uptime": "62.03%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.30%",
-    "time": 776,
-    "timeDay": 653,
-    "timeWeek": 568,
-    "timeMonth": 671,
-    "timeYear": 774,
+    "status": "up",
+    "uptime": "62.02%",
+    "uptimeDay": "95.88%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.29%",
+    "time": 775,
+    "timeDay": 558,
+    "timeWeek": 555,
+    "timeMonth": 665,
+    "timeYear": 773,
     "dailyMinutesDown": {
       "2025-09-19": 139,
       "2025-09-18": 362,
@@ -747,7 +747,7 @@
       "2026-07-07": 117,
       "2026-08-05": 55,
       "2026-08-12": 40,
-      "2026-08-24": 4
+      "2026-08-24": 59
     }
   },
   {
@@ -755,17 +755,17 @@
     "url": "https://request.pxlbuzzard.com",
     "icon": "https://icons.duckduckgo.com/ip3/request.pxlbuzzard.com.ico",
     "slug": "overseerr",
-    "status": "down",
+    "status": "up",
     "uptime": "80.36%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.78%",
+    "uptimeDay": "95.96%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.65%",
     "uptimeYear": "30.27%",
-    "time": 404,
-    "timeDay": 10028,
-    "timeWeek": 3025,
-    "timeMonth": 1647,
-    "timeYear": 456,
+    "time": 406,
+    "timeDay": 7029,
+    "timeWeek": 2803,
+    "timeMonth": 1631,
+    "timeYear": 457,
     "dailyMinutesDown": {
       "2026-05-06": 62,
       "2026-05-05": 1440,
@@ -1029,7 +1029,7 @@
       "2026-07-07": 116,
       "2026-08-05": 54,
       "2026-08-12": 40,
-      "2026-08-24": 3
+      "2026-08-24": 58
     }
   },
   {
@@ -1067,7 +1067,7 @@
     "timeMonth": 205,
     "timeYear": 145,
     "dailyMinutesDown": {
-      "2026-08-24": 1141,
+      "2026-08-24": 1197,
       "2026-08-23": 1440,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
