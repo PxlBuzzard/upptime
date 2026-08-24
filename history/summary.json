@@ -26,17 +26,17 @@
     "url": "https://archivebox.pxlbuzzard.com",
     "icon": "https://icons.duckduckgo.com/ip3/archivebox.pxlbuzzard.com.ico",
     "slug": "archive-box",
-    "status": "down",
+    "status": "up",
     "uptime": "80.99%",
-    "uptimeDay": "95.73%",
-    "uptimeWeek": "99.39%",
-    "uptimeMonth": "99.64%",
+    "uptimeDay": "93.29%",
+    "uptimeWeek": "99.04%",
+    "uptimeMonth": "99.56%",
     "uptimeYear": "27.49%",
-    "time": 384,
-    "timeDay": 10128,
-    "timeWeek": 3025,
-    "timeMonth": 1620,
-    "timeYear": 426,
+    "time": 385,
+    "timeDay": 7028,
+    "timeWeek": 2781,
+    "timeMonth": 1598,
+    "timeYear": 427,
     "dailyMinutesDown": {
       "2026-05-07": 250,
       "2026-05-06": 1440,
@@ -311,7 +311,7 @@
       "2026-07-07": 118,
       "2026-08-05": 57,
       "2026-08-12": 40,
-      "2026-08-24": 61
+      "2026-08-24": 97
     }
   },
   {
@@ -331,7 +331,7 @@
     "timeMonth": 192,
     "timeYear": 154,
     "dailyMinutesDown": {
-      "2026-08-24": 1197,
+      "2026-08-24": 1233,
       "2026-08-23": 1440,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
@@ -704,7 +704,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/homeassistant.pxlbuzzard.com.ico",
     "slug": "home-assistant",
     "status": "up",
-    "uptime": "62.02%",
+    "uptime": "62.03%",
     "uptimeDay": "95.88%",
     "uptimeWeek": "99.41%",
     "uptimeMonth": "99.65%",
@@ -1067,7 +1067,7 @@
     "timeMonth": 205,
     "timeYear": 145,
     "dailyMinutesDown": {
-      "2026-08-24": 1197,
+      "2026-08-24": 1233,
       "2026-08-23": 1440,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
